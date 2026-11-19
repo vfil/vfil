@@ -1,6 +1,6 @@
 ## Hello World!
 I'm Vlad 👋, passionate about software and leadership, and a believer in systems thinking and servant leadership.\
-Currently building [Gist, the next-generation language coach](https://apps.apple.com/us/app/gist-language-coach/id6790116237).
+Currently building [Gist, the next-generation language coach](https://gist-lang.com).
 If you're learning German for everyday use, take it for a spin and let me know what you think. It's free.
 
 I like to dig into how things work under the hood, and right now I'm learning the inner workings of AI agents.
